@@ -1,8 +1,8 @@
 {
     "Schema":  1,
     "App":  "CC",
-    "Version":  "0.4.1",
-    "DownloadUrl":  "https://github.com/curtner04/galaxy-defense-downloads/releases/download/galaxy-defense-0.4.1-d12d71d7823631e9/CC-Setup.exe",
-    "SHA256":  "d12d71d7823631e9b0176e527d1722437d09ecc997d012f067ddab1881833a76",
-    "Bytes":  76459225
+    "Version":  "0.5.1",
+    "DownloadUrl":  "https://github.com/curtner04/galaxy-defense-downloads/releases/download/galaxy-defense-0.5.1-01e833aaade5b910/CC-Setup.exe",
+    "SHA256":  "01e833aaade5b91051ced864f84ee22402b0308a30db92b50f302fed1db2453d",
+    "Bytes":  77317834
 }
